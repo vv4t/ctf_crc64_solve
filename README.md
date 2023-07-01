@@ -1,6 +1,6 @@
 # Rookie Code Rumble CTF: Ancient Aliens
 
-[Rookie Rumble](url=https://ctf.secso.cc/)
+[Rookie Rumble](https://ctf.secso.cc/)
 
 > WARNING!!! THIS CHALLENGE IS HARD (i think)!!!
 > 
